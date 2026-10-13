@@ -35,8 +35,6 @@ Ao alterar os dados em INFORMES ou NOTAS, o resumo e os gráficos se atualizam s
 - Claude (assistente de IA) como apoio na estruturação do projeto
 - GitHub para documentação e versionamento
 
-<!-- Ajuste a lista acima com as ferramentas que você realmente usou -->
-
 ## 🚀 Como usar
 
 1. Baixe o arquivo `projeto_lion_app.xlsx`.
@@ -50,33 +48,3 @@ Ao alterar os dados em INFORMES ou NOTAS, o resumo e os gráficos se atualizam s
 - **Layout e organização visual:** nas vídeo-aulas aprendi a montar o layout de uma planilha, deixando tudo organizado e visualmente agradável, com títulos, seções e formatação que facilitam o preenchimento e a leitura.
 - **Uso de IA como apoio:** usei o Claude para me ajudar a criar a nova aba **RESUMO**, que reúne automaticamente os dados das outras abas em totais, percentuais, indicadores e gráficos.
 - **Resultado:** com o resumo ligado às abas INFORMES e NOTAS, basta atualizar os dados e a visão geral se atualiza sozinha, sem cálculos manuais.
-
-## 🔒 Privacidade
-
-Esta planilha lida com dados sensíveis (CPF, título de eleitor, contatos e valores financeiros). A versão publicada neste repositório contém **apenas dados fictícios** para demonstração. Nunca publique seus dados reais em um repositório público.
-
-## 📁 Estrutura do repositório
-
-```
-.
-├── README.md
-├── projeto_lion_app.xlsx
-└── images/
-    ├── titular.png
-    ├── informes.png
-    ├── notas.png
-    └── resumo.png
-```
-
-## 🖼️ Capturas de tela
-
-<!-- Depois de subir os prints na pasta /images, estas linhas passam a funcionar -->
-
-![Aba Titular](./images/titular.png)
-![Aba Informes](./images/informes.png)
-![Aba Notas](./images/notas.png)
-![Aba Resumo](./images/resumo.png)
-
-## 👩‍💻 Autora
-
-**Mary Lima Nogueira**
